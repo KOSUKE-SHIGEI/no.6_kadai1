@@ -1,0 +1,23 @@
+.header-container{
+  max-width:1000px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.logo{
+  width: 150px;
+}
+
+.item5{
+  border:solid  orange;
+  background-color: orange;
+  padding :10px;
+  border-radius: 10px;
+  color:white
+}
