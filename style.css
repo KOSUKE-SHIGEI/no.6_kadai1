@@ -5,7 +5,8 @@ header{
   justify-content: center;
   align-items: center;
   margin: 0 auto;
-  }
+  color:black;  
+}
   
   .logo{
    width:150px;
@@ -29,15 +30,20 @@ header{
     }
   }
   
-   .item {
+  .item {
     padding: 0 10px;
     text-decoration: none;
+  }
+
+  .item1, item2, .item3, .item4 {
+    color:black;
   }
   
   .item5{
     background-color: orange;
     border-radius: 10px;
     padding: 10px;
+    color: white;
   }
   
   @media (max-width: 589px){
