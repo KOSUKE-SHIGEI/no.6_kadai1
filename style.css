@@ -10,11 +10,6 @@
   flex-wrap: nowrap;
 }
 
-.header-container .hamberger{
-display:none;
-}
-
-
 @media screen and (max-width: 900px) {
   .header-container .hamberger{
   display:block;
